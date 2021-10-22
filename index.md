@@ -13,5 +13,5 @@ Una de mis metas académicas es estudiar un posgrado en el Massachusetts Institu
 
 # Últimas Entradas
 
-[S2. Actividad 1. Reglamento de estudios de la UnADM](https://antonio-cituk.github.io/cupenimacm2021/mural)
-[S2. Actividad 2. Modelo educativo y Código de Ética de los Estudiantes de la UnADM](https://antonio-cituk.github.io/cupenimacm2021/nubes)
++ [S2. Actividad 1. Reglamento de estudios de la UnADM](https://antonio-cituk.github.io/cupenimacm2021/mural)
++ [S2. Actividad 2. Modelo educativo y Código de Ética de los Estudiantes de la UnADM](https://antonio-cituk.github.io/cupenimacm2021/nubes)
